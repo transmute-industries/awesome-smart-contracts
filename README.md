@@ -66,6 +66,7 @@
 * [ConsenSys/solidity-parser](https://github.com/ConsenSys/solidity-parser) - Solidity Parser in Javascript.
 
 #### Solidity Libraries
+* [docker-eth-dev](https://github.com/gnidan/docker-eth-dev) - docker ethereum dev env
 * [dapp-proof-of-identity](https://github.com/oraclize/dapp-proof-of-identity)
 * [oraclize-keybase](https://github.com/aragon/KeybaseRegistry)
 * [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Educational material for Solidity. Complement to solidity.readthedocs.com.
