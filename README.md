@@ -1,7 +1,6 @@
 # Awesome Smart Contracts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for writing Smart Contracts for [Ethereum](https://www.ethereum.org/).
-> Pulled from [github](https://github.com/search?utf8=%E2%9C%93&q=awesome-smart-contracts&type=)
+> Useful resources for writing Smart Contracts for [Ethereum](https://www.ethereum.org/) from [Github](https://github.com/search?utf8=%E2%9C%93&q=awesome-smart-contracts&type=)
 
 ## Table of Contents
 
