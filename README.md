@@ -67,6 +67,7 @@
 
 #### Solidity Libraries
 * [dapp-proof-of-identity](https://github.com/oraclize/dapp-proof-of-identity)
+* [oraclize-keybase](https://github.com/aragon/KeybaseRegistry)
 * [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Educational material for Solidity. Complement to solidity.readthedocs.com.
 * [androlo/standard-contracts](https://github.com/androlo/standard-contracts) - Storage repo for Solidity contracts, tests, and docs.
 * [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity.
