@@ -66,7 +66,7 @@
 * [ConsenSys/solidity-parser](https://github.com/ConsenSys/solidity-parser) - Solidity Parser in Javascript.
 
 #### Solidity Libraries
-
+* [dapp-proof-of-identity](https://github.com/oraclize/dapp-proof-of-identity)
 * [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Educational material for Solidity. Complement to solidity.readthedocs.com.
 * [androlo/standard-contracts](https://github.com/androlo/standard-contracts) - Storage repo for Solidity contracts, tests, and docs.
 * [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity.
