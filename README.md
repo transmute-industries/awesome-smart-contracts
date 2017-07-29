@@ -97,6 +97,9 @@
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - A framework to build secure smart contracts on Ethereum. [:closed_lock_with_key:](https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/audit "Security Audits")
 * [Solidity Standard Library](https://github.com/ethereum/solidity/tree/develop/std) - A proof-of-concept standard library that is included with Solidity itself.
 
+### Audits
+* [Zeppelin Solutions Serpent Audit](https://docs.google.com/document/d/1_PqXuAkvgUAOG3jbBvaUvqN6W90eJ3N4IdTLNMRAijo/edit?usp=sharing) - An Audit of the Serpent Compiler
+
 #### LLL Libraries
 
 * [zigguratt/lll-resurrected](https://github.com/zigguratt/lll-resurrected) - An LLL-based smart contract function dispatcher and example contract.
